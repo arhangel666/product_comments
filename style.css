@@ -1,0 +1,98 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	text-decoration: none;
+}
+body{
+	text-align: center;
+}
+.top_name{
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	margin-bottom: 20px;
+}
+.product{
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	margin-bottom: 20px;
+}
+.top_name div{
+	width: 100%;
+	text-align: center;
+	border: solid 1px;
+	padding: 15px;
+}
+h1{
+	margin: 20px;
+}
+.product div{
+	width: 100%;
+	margin: auto;
+
+
+}
+.btn_create_product{
+	margin-top: 30px;
+	padding: 15px;
+}
+.form_new_product{
+	display: flex;
+	flex-direction: column;
+	width: 400px;
+	margin: 100px auto;
+}
+.form_new_product input	{
+	margin: 10px;
+	padding: 10px;
+}
+.form_new_product button{
+	padding: 15px;
+}
+.mini{
+	width: 100px;
+}
+.max{
+	width: 500px;
+}
+.addcom{
+	display: flex;
+	flex-direction: column;
+	width: 400px;
+	margin: 50px auto;
+}
+.addcom input{
+	padding: 5px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+.comment{
+	width: 1000px;
+	margin: 50px auto;
+	display: flex;
+	justify-content: space-around;
+}
+.comment div{
+	margin: auto;
+	word-wrap: break-word;
+}
+.arcom{
+	width: 500px;
+	text-align: justify;
+
+}
+button{
+	padding: 15px;
+}
+.cd{
+	display: flex;
+	flex-direction: column;
+	width: 600px;
+	margin: 100px auto;
+}
+.cd input{
+	margin-bottom: 20px;
+	padding: 10px;
+}
