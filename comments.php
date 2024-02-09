@@ -1,6 +1,6 @@
 <?php
 require_once 'config.php';
-$id = $_GET['id'];
+// $id = $_GET['id'];
 
 ?>
 <!DOCTYPE html>
